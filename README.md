@@ -1,3 +1,3 @@
 # ansible_template
-Template of Ansible Config Master Branch
-- Eine Test Konfiguration
+Template Ansible Inventory and Playbook YAML [Master Branch]
+- Inventory, Playbook File Office Test
